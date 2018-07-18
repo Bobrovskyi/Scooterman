@@ -1,0 +1,19 @@
+.catalog {
+	&__list {
+		// display: flex;
+		// flex-direction: row;
+		// flex-wrap: wrap;
+		// justify-content: flex-start;
+		// align-items: flex-start;
+		// align-content: flex-start;
+	}
+	&__item {
+		// display: inline-block;
+		// float: left;
+		// width: 24%;
+		// vertical-align: top;
+	}
+	&__cover {
+		filter: grayscale(1);
+	}
+}
